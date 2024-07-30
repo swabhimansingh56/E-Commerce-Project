@@ -1,0 +1,19 @@
+ecommerce/
+├── css/
+│   └── styles.css
+├── js/
+│   └── scripts.js
+├── images/
+│   └── logo.png
+├── index.php
+├── product.php
+├── cart.php
+├── checkout.php
+├── login.php
+├── register.php
+├── includes/
+│   ├── db.php
+│   ├── header.php
+│   ├── footer.php
+│   └── functions.php
+└── .gitignore
